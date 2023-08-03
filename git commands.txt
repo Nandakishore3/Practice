@@ -1,0 +1,16 @@
+=======================================================
+git local Commands
+
+git init 
+git status
+git add .
+git commit -m "some comments" [-m stands for master branch / main branch] 
+git log
+========================================================
+github commands
+
+git remote add origin
+git branch -Mmain
+git push -umain origin
+
+=========================================================
